@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="DScala.png" width="200" alt="DScala Logo">
+</p>
+
+<h1 align="center">DevStacks DPhx</h1>
+
 # DScala 🧪
 
 **DScala** is a rebranded and customized fork of the [Scala](https://github.com/scala/scala) programming language, maintained by DevStacks as part of the DLangSDK compiler suite.
